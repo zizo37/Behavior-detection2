@@ -1,0 +1,339 @@
+{
+    "general_statistics": {
+        "total_comments_collected": 599,
+        "total_comments_analyzed": 580,
+        "duplicates_removed": 19,
+        "completion_rate": 96.83
+    },
+    "sentiment_analysis": {
+        "positive": 47.07,
+        "negative": 2.41,
+        "neutral": 50.52
+    },
+    "comment_type_analysis": {
+        "comment_types": {
+            "positive_comments": {
+                "count": 132,
+                "percentage": 22.76,
+                "top_5": [
+                    {
+                        "text": "This list hits hard—truth bombs all the way through. #5, #30, and #40 especially stand out. If you can sell, build systems, and take full responsibility, you’re unstoppable. Also, love how you ended it: 'Get started.' Simple but profound. Most people overthink their way into inaction. Appreciate the rawness here—Justin Welsh !",
+                        "author": "Yunus B",
+                        "supportive_score": 10.5
+                    },
+                    {
+                        "text": "Great list of hard truths! So many valuable lessons here that can really change the way you approach business. It’s all about taking action, learning from experience, and staying focused on what truly matters. Justin Welsh",
+                        "author": "Erin O'Leary  , MBA, CMAA",
+                        "supportive_score": 10.0
+                    },
+                    {
+                        "text": "I love this list—it’s the real, unfiltered truth of what it takes to build a business. Justin Welsh - Embrace failure as a lesson. - Keep a growth mindset. - Find ways to stay motivated on tough days. - Build a support system of like-minded people. - Keep learning, every day. At the end of the day, getting started is the hardest yet most rewarding part.",
+                        "author": "Anurupa Sinha",
+                        "supportive_score": 8.5
+                    },
+                    {
+                        "text": "Thank you for sharing these hard truths about entrepreneurship; they resonate deeply with many of us. Each point serves as a valuable reminder that success is often a result of resilience, self-initiative, and the willingness to learn from both successes and failures. The emphasis on taking action and learning through experience is particularly crucial, as it encourages us to step outside our comfort zones and embrace the journey. Your insights underscore the importance of building a supportive network and maintaining a positive mindset, which are essential elements for any entrepreneur. Let's keep pushing forward and learning together!",
+                        "author": "JESSE OCHIMANA",
+                        "supportive_score": 8.5
+                    },
+                    {
+                        "text": "41. Perfect is the enemy of progress. Start now; refine later. 42. Your self-worth isn't tied to your business success. Learn to separate the two. 43. The most valuable currency is trust. Earn it, protect it, and never trade it for short-term gains",
+                        "author": "Matt Teufel",
+                        "supportive_score": 8.5
+                    }
+                ]
+            },
+            "aggressive_comments": {
+                "count": 3,
+                "percentage": 0.52,
+                "top_5": [
+                    {
+                        "text": "#37 Arguing online is a waste of time and energy. This is so true. Most times some of the things argued about are not even worth the time and energy spent in the argument.",
+                        "author": "Jennifer Okeke",
+                        "critical_score": 3.0
+                    },
+                    {
+                        "text": "Respecting people's time is the ultimate one for me. People who waste my time severely irritate me.",
+                        "author": "Kody N.",
+                        "critical_score": 3.0
+                    },
+                    {
+                        "text": "Arguing online is truly a waste of time and energy and yet I see people doing so especially on X.",
+                        "author": "Md Ayaan Ali",
+                        "critical_score": 3.0
+                    }
+                ]
+            },
+            "sarcastic_comments": {
+                "count": 20,
+                "percentage": 3.45
+            },
+            "pure_neutral_comments": {
+                "count": 288,
+                "percentage": 49.66
+            }
+        }
+    },
+    "sentiment_intensity": {
+        "sentiment_intensity": {
+            "very_positive": {
+                "count": 29,
+                "percentage": 5.0
+            },
+            "moderately_positive": {
+                "count": 103,
+                "percentage": 17.76
+            },
+            "slightly_positive": {
+                "count": 129,
+                "percentage": 22.24
+            },
+            "very_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "moderately_negative": {
+                "count": 3,
+                "percentage": 0.52
+            },
+            "slightly_negative": {
+                "count": 8,
+                "percentage": 1.38
+            },
+            "mixed": {
+                "count": 20,
+                "percentage": 3.45
+            }
+        }
+    },
+    "keyword_statistics": {
+        "most_common_positive": [
+            [
+                "great",
+                68
+            ],
+            [
+                "love",
+                61
+            ],
+            [
+                "thanks",
+                49
+            ],
+            [
+                "valuable",
+                33
+            ],
+            [
+                "practical",
+                30
+            ],
+            [
+                "get started",
+                23
+            ],
+            [
+                "perfect",
+                18
+            ],
+            [
+                "helpful",
+                14
+            ],
+            [
+                "good",
+                12
+            ],
+            [
+                "focused",
+                9
+            ]
+        ],
+        "most_common_negative": [
+            [
+                "hate",
+                9
+            ],
+            [
+                "dire",
+                4
+            ],
+            [
+                "waste",
+                3
+            ],
+            [
+                "slow",
+                2
+            ],
+            [
+                "contradictory",
+                1
+            ],
+            [
+                "undervalued",
+                1
+            ],
+            [
+                "forgettable",
+                1
+            ],
+            [
+                "wrong",
+                1
+            ],
+            [
+                "incomplete",
+                1
+            ],
+            [
+                "unsupportive",
+                1
+            ]
+        ],
+        "most_used_words": [
+            [
+                "justin",
+                159
+            ],
+            [
+                "welsh",
+                126
+            ],
+            [
+                "all",
+                74
+            ],
+            [
+                "so",
+                73
+            ],
+            [
+                "action",
+                71
+            ],
+            [
+                "can",
+                68
+            ],
+            [
+                "great",
+                67
+            ],
+            [
+                "just",
+                66
+            ],
+            [
+                "one",
+                61
+            ],
+            [
+                "business",
+                61
+            ],
+            [
+                "about",
+                61
+            ],
+            [
+                "taking",
+                58
+            ],
+            [
+                "love",
+                55
+            ],
+            [
+                "not",
+                53
+            ],
+            [
+                "lessons",
+                52
+            ],
+            [
+                "learn",
+                51
+            ],
+            [
+                "hard",
+                50
+            ],
+            [
+                "thanks",
+                49
+            ],
+            [
+                "get",
+                47
+            ],
+            [
+                "have",
+                46
+            ]
+        ]
+    },
+    "comment_length_analysis": {
+        "average_length": 23.4,
+        "shortest": 1,
+        "longest": 203,
+        "distribution": {
+            "short (1-10 words)": 140,
+            "medium (11-30 words)": 310,
+            "long (31+ words)": 130
+        }
+    },
+    "user_engagement": {
+        "total_unique_authors": 565,
+        "most_active_authors": [
+            [
+                "Unknown",
+                13
+            ],
+            [
+                "Victoria Michaels",
+                2
+            ],
+            [
+                "Chris Jones",
+                2
+            ],
+            [
+                "Md Ayaan Ali",
+                2
+            ],
+            [
+                "Angela Audu",
+                1
+            ]
+        ],
+        "engagement_distribution": {
+            "single_comment": 561,
+            "multiple_comments": 4
+        }
+    },
+    "temporal_analysis": {
+        "hourly_distribution": {
+            "13": 226,
+            "14": 107,
+            "15": 86,
+            "16": 59,
+            "17": 56,
+            "18": 44,
+            "19": 2
+        },
+        "daily_distribution": {
+            "2024-11-25": 580
+        },
+        "peak_hour": 13
+    },
+    "data_quality": {
+        "empty_comments": 0,
+        "average_sentiment_score": 1.35
+    },
+    "report_metadata": {
+        "generated_at": "2025-01-04T21:11:25.522986",
+        "version": "1.1"
+    }
+}
