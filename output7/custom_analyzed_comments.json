@@ -1,0 +1,266 @@
+[
+    {
+        "author": "Famotibe Omobolanle",
+        "original_text": "Great point! I completely agree with you. Last month, I worked on a project heavily focused on AI integration. Even though I’m a frontend engineer, I decided to take on the backend logic myself. It was an eye-opening experience, and I’m still amazed at how much I learned from it. \n\nSo yes, the more projects you tackle and problems you solve, the better you grow.",
+        "cleaned_text": "Great point! I completely agree with you. Last month, I worked on a project heavily focused on AI integration. Even though I’m a frontend engineer, I decided to take on the backend logic myself. It was an eye-opening experience, and I’m still amazed at how much I learned from it. So yes, the more projects you tackle and problems you solve, the better you grow.",
+        "timestamp": "10h",
+        "analysis": {
+            "supportive_score": 8.0,
+            "critical_score": 0,
+            "sentiment_score": 8.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "great",
+                    "focused",
+                    "focused",
+                    "focused"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Frantz Kati",
+        "original_text": "Famotibe Omobolanle this is really great insight. Thanks for sharing, and please keep building.",
+        "cleaned_text": "Famotibe Omobolanle this is really great insight. Thanks for sharing, and please keep building.",
+        "timestamp": "9h",
+        "analysis": {
+            "supportive_score": 3.0,
+            "critical_score": 0,
+            "sentiment_score": 3.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "great",
+                    "thanks"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Joseph Kalu",
+        "original_text": "I'm starting to love your post Frantz Kati, thanks for sharing this",
+        "cleaned_text": "I'm starting to love your post Frantz Kati, thanks for sharing this",
+        "timestamp": "11h",
+        "analysis": {
+            "supportive_score": 3.0,
+            "critical_score": 0,
+            "sentiment_score": 3.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "love",
+                    "thanks"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Frantz Kati",
+        "original_text": "Joseph Kalu thanks so much for always reading",
+        "cleaned_text": "Joseph Kalu thanks so much for always reading",
+        "timestamp": "9h",
+        "analysis": {
+            "supportive_score": 1.0,
+            "critical_score": 0,
+            "sentiment_score": 1.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "thanks"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "BeyondTheory",
+        "original_text": "Well said, Frantz Kati! At BeyondTheory, our Nurture Program not only gives aspiring tech talents hands-on experience in building real-world products but also ensures they understand business value and impact. With mentors to guide them, we emphasize being proactive in solving problems and figuring things out independently to foster growth and confidence. It's all about transforming potential into impactful value",
+        "cleaned_text": "Well said, Frantz Kati! At BeyondTheory, our Nurture Program not only gives aspiring tech talents hands-on experience in building real-world products but also ensures they understand business value and impact. With mentors to guide them, we emphasize being proactive in solving problems and figuring things out independently to foster growth and confidence. It's all about transforming potential into impactful value",
+        "timestamp": "9h",
+        "analysis": {
+            "supportive_score": 4.0,
+            "critical_score": 0,
+            "sentiment_score": 4.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "proactive",
+                    "proactive"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Ties van de Ven",
+        "original_text": "Aren't you just describing some steps to become senior here? These are still skills that need to be developed over the years, they cannot be developed within a month or 2. Hence why it's a junior... they need time and guidance to develop these. This is also the reason why it is good to have juniors in your company and team. By guiding them you are forced to explain and rethink decisions made in the past, and find out the gaps in your own knowledge.",
+        "cleaned_text": "Aren't you just describing some steps to become senior here? These are still skills that need to be developed over the years, they cannot be developed within a month or 2. Hence why it's a junior... they need time and guidance to develop these. This is also the reason why it is good to have juniors in your company and team. By guiding them you are forced to explain and rethink decisions made in the past, and find out the gaps in your own knowledge.",
+        "timestamp": "3h",
+        "analysis": {
+            "supportive_score": 1.0,
+            "critical_score": 0,
+            "sentiment_score": 1.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "good"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "SAMUEL OKOH",
+        "original_text": "It's not easy, especially with limited resources. This approach risks creating a significant gap between senior and junior developers, making it increasingly difficult for aspiring junior developers to start their careers in organizations. Everyone begins somewhere, and having mentors is crucial to professional growth. Not everything can or should be taught by AI—real-world experience, learning from mistakes, and embracing imperfection are essential components of development. Junior developers deserve opportunities to grow, and organizations should focus on nurturing talent, not just downsizing for profit. Prioritizing short-term gains over long-term development neglects the responsibility of giving back to humanity. As challenges grow daily, we must support one another rather than discourage those genuinely striving to succeed.",
+        "cleaned_text": "It's not easy, especially with limited resources. This approach risks creating a significant gap between senior and junior developers, making it increasingly difficult for aspiring junior developers to start their careers in organizations. Everyone begins somewhere, and having mentors is crucial to professional growth. Not everything can or should be taught by AI—real-world experience, learning from mistakes, and embracing imperfection are essential components of development. Junior developers deserve opportunities to grow, and organizations should focus on nurturing talent, not just downsizing for profit. Prioritizing short-term gains over long-term development neglects the responsibility of giving back to humanity. As challenges grow daily, we must support one another rather than discourage those genuinely striving to succeed.",
+        "timestamp": "10h",
+        "analysis": {
+            "supportive_score": 7.0,
+            "critical_score": 0,
+            "sentiment_score": 7.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "perfect",
+                    "professional",
+                    "genuine"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "sphelele linda",
+        "original_text": "SAMUEL OKOH Spot On!",
+        "cleaned_text": "SAMUEL OKOH Spot On!",
+        "timestamp": "6h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Mayowa Falomo",
+        "original_text": "Companies choosing not to hire Juniors is a shortsighted move for the state of the software industry as a whole, and software development alone would inevitably suffer for it in the long run.\n\nShipping products gets slower, quality of devs slowly begin to drop, companies now have to pay premium money to retain older more experienced devs instead of paying lesser for devs they should have trained, less attention to details for products since there wasn't any training.\n\nAll in all companies would get the shorter end of the stick later and broadly the software industry, I hope companies do better this year. There's still time!",
+        "cleaned_text": "Companies choosing not to hire Juniors is a shortsighted move for the state of the software industry as a whole, and software development alone would inevitably suffer for it in the long run. Shipping products gets slower, quality of devs slowly begin to drop, companies now have to pay premium money to retain older more experienced devs instead of paying lesser for devs they should have trained, less attention to details for products since there wasn't any training. All in all companies would get the shorter end of the stick later and broadly the software industry, I hope companies do better this year. There's still time!",
+        "timestamp": "7h",
+        "analysis": {
+            "supportive_score": 2.0,
+            "critical_score": 1.0,
+            "sentiment_score": 1.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "quality"
+                ],
+                "negative": [
+                    "slow"
+                ]
+            }
+        }
+    },
+    {
+        "author": "Jasper de Vries",
+        "original_text": "Mayowa Falomo as a new tragedy of the commons all companies hope that other companies will do the training work (because it is empathically not just a mindset) to keep up the pool of experienced business focused senior developers to meet demand. I couldn’t agree with you more.",
+        "cleaned_text": "Mayowa Falomo as a new tragedy of the commons all companies hope that other companies will do the training work (because it is empathically not just a mindset) to keep up the pool of experienced business focused senior developers to meet demand. I couldn’t agree with you more.",
+        "timestamp": "1h",
+        "analysis": {
+            "supportive_score": 6.0,
+            "critical_score": 0,
+            "sentiment_score": 6.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "focused",
+                    "focused",
+                    "focused"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Sandra Lancheros",
+        "original_text": "Teams should be composed of several types of people. If everyone is a 'strategic thinker', we would look for a detail- oriented doer to complete the group. On top of that, people require experience to become a strategic thinker: this means you have been in several projects before, so your brain has enough context to plan and take decisions. Unfortunately for junior devs, even if they read a lot of theory, they can't achieve this position. In conclusion: projects need both junior devs and strategic thinkers...and many other qualified types of human beings.",
+        "cleaned_text": "Teams should be composed of several types of people. If everyone is a 'strategic thinker', we would look for a detail- oriented doer to complete the group. On top of that, people require experience to become a strategic thinker: this means you have been in several projects before, so your brain has enough context to plan and take decisions. Unfortunately for junior devs, even if they read a lot of theory, they can't achieve this position. In conclusion: projects need both junior devs and strategic thinkers...and many other qualified types of human beings.",
+        "timestamp": "6h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Ivett Ördög",
+        "original_text": "While I agree that engineers need to focus more on business outcomes, I think this phrasing is quite counter productive. Imagine reading that as a junior engineer... It is disheartening and false. We do need junior engineers! AI tools are not replacing them, because junior engineers also leveled up with the AI tools. Just because there is an economic downturn, and right now the job market is not great, realistically it won't take long before we will have a shortage of engineers again.",
+        "cleaned_text": "While I agree that engineers need to focus more on business outcomes, I think this phrasing is quite counter productive. Imagine reading that as a junior engineer... It is disheartening and false. We do need junior engineers! AI tools are not replacing them, because junior engineers also leveled up with the AI tools. Just because there is an economic downturn, and right now the job market is not great, realistically it won't take long before we will have a shortage of engineers again.",
+        "timestamp": "5h",
+        "analysis": {
+            "supportive_score": 6.0,
+            "critical_score": 0,
+            "sentiment_score": 6.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "great",
+                    "productive",
+                    "realistic"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Theodora Apeadu",
+        "original_text": "Insightful and absolutely true! As a junior developer, I'm learning that growth isn't just about writing code but also about solving real problems and creating business value. The reminder to focus on self-reliance, business awareness, and delivering impactful projects is a game changer. Thanks for sharing this, it’s the push I needed to continue leveling up.",
+        "cleaned_text": "Insightful and absolutely true! As a junior developer, I'm learning that growth isn't just about writing code but also about solving real problems and creating business value. The reminder to focus on self-reliance, business awareness, and delivering impactful projects is a game changer. Thanks for sharing this, it’s the push I needed to continue leveling up.",
+        "timestamp": "5h",
+        "analysis": {
+            "supportive_score": 3.0,
+            "critical_score": 0,
+            "sentiment_score": 3.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "insightful",
+                    "thanks"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Adebanjo Omogbolahan Roy",
+        "original_text": "Not really a good move for said company, but also products centered on quality can do a lot for the company",
+        "cleaned_text": "Not really a good move for said company, but also products centered on quality can do a lot for the company",
+        "timestamp": "1h",
+        "analysis": {
+            "supportive_score": 3.0,
+            "critical_score": 0,
+            "sentiment_score": 3.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "quality",
+                    "good"
+                ],
+                "negative": []
+            }
+        }
+    }
+]

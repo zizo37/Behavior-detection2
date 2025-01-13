@@ -1,0 +1,163 @@
+[
+    {
+        "author": "Akshay Saklani",
+        "profile_link": "https://www.linkedin.com/in/akshay-saklani-87090b75",
+        "text": "I wonder if copilot could've picked that up",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "I don't think so, obfuscated code behind a convention name (.svn), I don't think it would have been able to notice",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Akshay Saklani",
+        "profile_link": "https://www.linkedin.com/in/akshay-saklani-87090b75",
+        "text": "it would have cleaned it off thinking its a typo I think but I guess repositories need to be monitored from now on",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Niko Dunixi",
+        "profile_link": "https://www.linkedin.com/in/niko-dunixi",
+        "text": "I mean... you have the server and more or less the format they expect.... Time to see if they can handle extraneous load and sanitize their inputs??",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Yes, they actually removed it, but I think it was lucky that the news got out. here you can see a copy of the original repo\nhttps://github.com/Kotivskyi/ChallengerKnight",
+        "timestamp": "3w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Ong H.",
+        "profile_link": "https://www.linkedin.com/in/onghengyi",
+        "text": "Niko Dunixi The real coding interview \ud83d\ude02",
+        "timestamp": "4d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Anastasiia Drachuk",
+        "profile_link": "https://www.linkedin.com/in/anastasiia-drachuk",
+        "text": "That\u2019s impressive \ud83d\ude2c \nCould you please give some practical advice for beginners, how to secure ourselves from similar problems? \nI\u2019m not sure that I\u2019ve recognized the trick even if I reviewed the code, especially on live-code-interview.",
+        "timestamp": "5d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Always, no matter how brief, inspect the code before running it, whenever you can run the application in a safe environment (virtual machine, or some partition you have for sandbox), and always try to keep yourself updated on the subject",
+        "timestamp": "5d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Kevin Guanche Darias",
+        "profile_link": "https://www.linkedin.com/in/kevin-guanche-darias-2469aa58",
+        "text": "Anastasiia Drachuk They are basically uploading all the passwords or caches of your web browsers, also your crypto wallet, even if you don't store passwords they could access your accounts by using your own opened \"remember me\" sessions\n\nThe hack is probably done by a newbie, because it would be much harder to detect, if they randomly cloned a random npm package with a changed char and used that as npm dependency... from now onwards I will be very paranoid from interview provided repos, and Would always run them inside a docker container, fortunately I'm happy in my current company... but I take the issue in serious consideration for any possible future",
+        "timestamp": "3d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Elyer Maldonado",
+        "profile_link": "https://www.linkedin.com/in/elyermad",
+        "text": "Pero miren el tama\u00f1o de esos huevos!",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Elyer Maldonado muchas gracias por tu mensaje Ely, un abrazo muy grande, espero que andes muy bien amigo \ud83d\ude03 ",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Elyer Maldonado",
+        "profile_link": "https://www.linkedin.com/in/elyermad",
+        "text": "Franco Aguilera Gracias querido! Te mando un abrazote tambi\u00e9n!",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Getnet Demil \u2122",
+        "profile_link": "https://www.linkedin.com/in/getnetdemil",
+        "text": "Wow, I'm utterly flabbergasted by your experience! It's shocking how common scams are, especially in the tech space. Your vigilance in spotting that hidden code is impressive, and I'm glad you caught it in time! Thanks for sharing this vital lesson with all of us.",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "thanks to you for the comment \ud83d\udc4d ",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Abdullah Khurram",
+        "profile_link": "https://www.linkedin.com/in/abdullah-khurram-b08538335",
+        "text": "There are some paths like exodus.wallet in App data in the code you've shown\n\nExodus is a crypto wallet and it could be a crypto clipping scam.\n\nIn crypto clipping, multiple addresses or hashes of hacker's wallet are stored in the victim's computer. So, when the victim tries to do any crypto transactions, this script replaces the destination address with hacker's address in the memory buffer and you'll end up sending money to the hacker.",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Abdullah Khurram",
+        "profile_link": "https://www.linkedin.com/in/abdullah-khurram-b08538335",
+        "text": "Francisco Javier Williams Monardez Yes",
+        "timestamp": "4w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Ikenna Uwakwe",
+        "profile_link": "https://www.linkedin.com/in/ikenna-uwakwe",
+        "text": "Happened to me one time during which I entered into a weeks-long Coding challenge along with about 30 other developers (hard to peg a number as the figure was incremental over time), only the said company wasn\u2019t looking to steal our crypto rather they were stealing participants\u2019 GPU to mine crypto on the fly. \n\nJust like you, we all were excited to jump on this new challenge as they targeted mid-senior level developers from all over Africa, hence, we were all excited to showcase our skillsets as we compared them against other industry professionals. What tipped me off was when they started kicking out people for no reason, entering new participants everyday. Even worse, was that the codebase required us to grant the company\u2019s remote server access to our PC resources at all times.\n\nAnd then a friend of mine who was recently dropped started complaining about having his PC lag ever since. Only then did I feel the need to conduct an in-depth research on the company to see what exactly they were into. And just as I had predicted, they were into crypto mining using third-party GPUs from remote users all over the word.\n\nI mean who has better PC resources than creatives like programmers and graphics designers?",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Jos\u00e9 Joaqu\u00edn N\u00fa\u00f1ez Vallejos",
+        "profile_link": "https://www.linkedin.com/in/josejoaquinnunez",
+        "text": "Ikenna Uwakwe steal GPU, brilliant",
+        "timestamp": "2w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Pietro Boccaletto, PhD",
+        "profile_link": "https://www.linkedin.com/in/pietroboccaletto",
+        "text": "Hi, I\u2019ve quickly deobfuscated and analyzed the code. If you\u2019ve executed it, you should not only change your passwords but also deauthenticate or invalidate active sessions (e.g., cookies) across all your connected accounts. This script compromises your browser profiles and session data, which could allow unauthorized access to your accounts. Additionally, I recommend closely monitoring access to all your online platforms.\n\nHere\u2019s what the code does:\n\nSteals browser profiles, including cookies, saved passwords, browsing history, and other sensitive data.\n\nExtracts cryptocurrency wallets.\n\nRetrieves system passwords stored in keychains.\n\n\nFurthermore, in the final lines, the script attempts to locate a Python executable and download a file from a remote server. This could be (pending further investigation) part of a persistence mechanism allowing the attacker to maintain control of your machine.\n\nI strongly advise you to disconnect the system from the Internet immediately, consult a Cybersecurity specialist, and consider reformatting the computer to ensure it is secure.\n\nStay vigilant and safe!",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Kevin Guanche Darias",
+        "profile_link": "https://www.linkedin.com/in/kevin-guanche-darias-2469aa58",
+        "text": "Pietro Boccaletto, PhD Srr, I wrote my comment without noticing, you already explained the exact impact of the js script, still we are unaware of the Python part",
+        "timestamp": "3d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Abdulhakeem Muhammed",
+        "profile_link": "https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi",
+        "text": "I see. I have been getting A LOT of job requests here on LinkedIn from supposed HR individuals.\nEither they refer me to another supposed PM or they send me an interview task directly.\n\nIn both cases, we keep in contact for so long till I completed the task and send videos or pics as the case may be, immediately after that I get 'Ghosted'.\n\nOne such occasion, I was told to install 'anydesk' and give complete access to the PM, which I did.\n\nBut what trips me off was that he went and started checking my other messages on.\n\nI believeshould give a way to report these set of people in order to prevent innocent hardworking people from been scammed in the name of job opportunities.",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Vladimir Goncharov",
+        "profile_link": "https://www.linkedin.com/in/vgoncharoff",
+        "text": "Luis Francisco Ch\u00e1vez Hita Romero they are busy with intrusive spam offers suggesting to get LinkedIn Premium",
+        "timestamp": "3d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Laurin B.",
+        "profile_link": "https://www.linkedin.com/in/laurin-b-693b33338",
+        "text": "Line wrapping is your friend here! This is a general problem with many questionable repositories on github. Especially with python projects already seen several times. They use excessive indents or deeply nested functions/classes to hide the malicious code far down in the file, making it unlikely to be noticed during a casual inspection. The malicious logic can be disguised using techniques such as base64 encoding, dynamically constructed Python code (exec, eval), or inline comments that break readability.",
+        "timestamp": "1mo",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    }
+]

@@ -1,0 +1,277 @@
+{
+    "general_statistics": {
+        "total_comments_collected": 14,
+        "total_comments_analyzed": 14,
+        "duplicates_removed": 0,
+        "completion_rate": 100.0
+    },
+    "sentiment_analysis": {
+        "positive": 85.71,
+        "negative": 0.0,
+        "neutral": 14.29
+    },
+    "comment_type_analysis": {
+        "comment_types": {
+            "positive_comments": {
+                "count": 9,
+                "percentage": 64.29,
+                "top_5": [
+                    {
+                        "text": "Great point! I completely agree with you. Last month, I worked on a project heavily focused on AI integration. Even though I’m a frontend engineer, I decided to take on the backend logic myself. It was an eye-opening experience, and I’m still amazed at how much I learned from it. So yes, the more projects you tackle and problems you solve, the better you grow.",
+                        "author": "Famotibe Omobolanle",
+                        "supportive_score": 8.0
+                    },
+                    {
+                        "text": "It's not easy, especially with limited resources. This approach risks creating a significant gap between senior and junior developers, making it increasingly difficult for aspiring junior developers to start their careers in organizations. Everyone begins somewhere, and having mentors is crucial to professional growth. Not everything can or should be taught by AI—real-world experience, learning from mistakes, and embracing imperfection are essential components of development. Junior developers deserve opportunities to grow, and organizations should focus on nurturing talent, not just downsizing for profit. Prioritizing short-term gains over long-term development neglects the responsibility of giving back to humanity. As challenges grow daily, we must support one another rather than discourage those genuinely striving to succeed.",
+                        "author": "SAMUEL OKOH",
+                        "supportive_score": 7.0
+                    },
+                    {
+                        "text": "Mayowa Falomo as a new tragedy of the commons all companies hope that other companies will do the training work (because it is empathically not just a mindset) to keep up the pool of experienced business focused senior developers to meet demand. I couldn’t agree with you more.",
+                        "author": "Jasper de Vries",
+                        "supportive_score": 6.0
+                    },
+                    {
+                        "text": "While I agree that engineers need to focus more on business outcomes, I think this phrasing is quite counter productive. Imagine reading that as a junior engineer... It is disheartening and false. We do need junior engineers! AI tools are not replacing them, because junior engineers also leveled up with the AI tools. Just because there is an economic downturn, and right now the job market is not great, realistically it won't take long before we will have a shortage of engineers again.",
+                        "author": "Ivett Ördög",
+                        "supportive_score": 6.0
+                    },
+                    {
+                        "text": "Well said, Frantz Kati! At BeyondTheory, our Nurture Program not only gives aspiring tech talents hands-on experience in building real-world products but also ensures they understand business value and impact. With mentors to guide them, we emphasize being proactive in solving problems and figuring things out independently to foster growth and confidence. It's all about transforming potential into impactful value",
+                        "author": "BeyondTheory",
+                        "supportive_score": 4.0
+                    }
+                ]
+            },
+            "aggressive_comments": {
+                "count": 0,
+                "percentage": 0.0,
+                "top_5": []
+            },
+            "sarcastic_comments": {
+                "count": 1,
+                "percentage": 7.14
+            },
+            "pure_neutral_comments": {
+                "count": 2,
+                "percentage": 14.29
+            }
+        }
+    },
+    "sentiment_intensity": {
+        "sentiment_intensity": {
+            "very_positive": {
+                "count": 4,
+                "percentage": 28.57
+            },
+            "moderately_positive": {
+                "count": 5,
+                "percentage": 35.71
+            },
+            "slightly_positive": {
+                "count": 2,
+                "percentage": 14.29
+            },
+            "very_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "moderately_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "slightly_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "mixed": {
+                "count": 1,
+                "percentage": 7.14
+            }
+        }
+    },
+    "keyword_statistics": {
+        "most_common_positive": [
+            [
+                "focused",
+                6
+            ],
+            [
+                "thanks",
+                4
+            ],
+            [
+                "great",
+                3
+            ],
+            [
+                "proactive",
+                2
+            ],
+            [
+                "good",
+                2
+            ],
+            [
+                "quality",
+                2
+            ],
+            [
+                "love",
+                1
+            ],
+            [
+                "perfect",
+                1
+            ],
+            [
+                "professional",
+                1
+            ],
+            [
+                "genuine",
+                1
+            ]
+        ],
+        "most_common_negative": [
+            [
+                "slow",
+                1
+            ]
+        ],
+        "most_used_words": [
+            [
+                "not",
+                9
+            ],
+            [
+                "junior",
+                9
+            ],
+            [
+                "companies",
+                6
+            ],
+            [
+                "also",
+                5
+            ],
+            [
+                "business",
+                5
+            ],
+            [
+                "just",
+                5
+            ],
+            [
+                "need",
+                5
+            ],
+            [
+                "have",
+                5
+            ],
+            [
+                "projects",
+                4
+            ],
+            [
+                "thanks",
+                4
+            ],
+            [
+                "products",
+                4
+            ],
+            [
+                "all",
+                4
+            ],
+            [
+                "should",
+                4
+            ],
+            [
+                "devs",
+                4
+            ],
+            [
+                "do",
+                4
+            ],
+            [
+                "agree",
+                3
+            ],
+            [
+                "ai",
+                3
+            ],
+            [
+                "take",
+                3
+            ],
+            [
+                "still",
+                3
+            ],
+            [
+                "so",
+                3
+            ]
+        ]
+    },
+    "comment_length_analysis": {
+        "average_length": 54.93,
+        "shortest": 4,
+        "longest": 114,
+        "distribution": {
+            "short (1-10 words)": 2,
+            "medium (11-30 words)": 3,
+            "long (31+ words)": 9
+        }
+    },
+    "user_engagement": {
+        "total_unique_authors": 13,
+        "most_active_authors": [
+            [
+                "Frantz Kati",
+                2
+            ],
+            [
+                "Famotibe Omobolanle",
+                1
+            ],
+            [
+                "Joseph Kalu",
+                1
+            ],
+            [
+                "BeyondTheory",
+                1
+            ],
+            [
+                "Ties van de Ven",
+                1
+            ]
+        ],
+        "engagement_distribution": {
+            "single_comment": 12,
+            "multiple_comments": 1
+        }
+    },
+    "temporal_analysis": {
+        "hourly_distribution": {},
+        "daily_distribution": {},
+        "peak_hour": null
+    },
+    "data_quality": {
+        "empty_comments": 0,
+        "average_sentiment_score": 3.29
+    },
+    "report_metadata": {
+        "generated_at": "2025-01-13T20:27:44.811771",
+        "version": "1.1"
+    }
+}
