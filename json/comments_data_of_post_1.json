@@ -1,0 +1,177 @@
+[
+    {
+        "author": "Silvia Suarez",
+        "profile_link": "https://www.linkedin.com/in/silvia-suarez-42893550",
+        "text": "I see a fraud intention, and that's a crime. In your place, I would give the name, plattform and ny other information I have about the recruiter, then I would report this user to the platform in which he's scamming people, and finally, I would report this to the police. They have a special department for cyber-crimes.\nNot doing so, is like letting them go on scamming people. You're safe, but what about the others? the catastrophic situation if their money were stolen. I do care about others, I would try to take them down. But, that's just me. Everyone is free to do what they think is better.",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Silvia Suarez I thought about that, but the identity, the same as the company where fake, I mean, the company exists, but it was fake.\nplease refer to this for more technical info\nhttps://x.com/1ZRR4H/status/1786877817528959308",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Viktor Schmidt",
+        "profile_link": "https://www.linkedin.com/in/viktorianer",
+        "text": "Franco Aguilera \nIt doesn\u2019t matter if it\u2019s fake or not. Reporting it to the authorities is the only way to go. \ud83d\udc46\ud83c\udffc\nIt might take some time, but it will be far more impactful than a LinkedIn post.",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Abel Medina Rivera",
+        "profile_link": "https://www.linkedin.com/in/abelmedinarivera",
+        "text": "There are two repos in GitHub with that code",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Abel Medina Rivera and they keep appearing https://github.com/gvriofernando/test_challengerknight ",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Abel Medina Rivera",
+        "profile_link": "https://www.linkedin.com/in/abelmedinarivera",
+        "text": "Franco Aguilera Well, I guess it's better to take tests on platforms or in virtual machines.",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Niko Dunixi",
+        "profile_link": "https://www.linkedin.com/in/niko-dunixi",
+        "text": "I mean... you have the server and more or less the format they expect.... Time to see if they can handle extraneous load and sanitize their inputs??",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Niko Dunixi send me message if you need more insights ",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Ivan Pochta",
+        "profile_link": "https://www.linkedin.com/in/ivan-pochta-99b82114b",
+        "text": "Niko Dunixi I can another version of the same js scam as well). I've found another version of it. Please, connect with me)",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Ricardo Pulgar\u00edn G\u00f3mez",
+        "profile_link": "https://www.linkedin.com/in/ricardo-pulgarin-gomez",
+        "text": "Your analysis is very impressive Franco! I think at the end it is a very sophisticated method of social engineering, but what would this technique be called? Regards!",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Ricardo Pulgar\u00edn G\u00f3mez it's an exploit I believe, and the \"code\" it's relatively easy to do, it's just a IIFE, a JS function that executes itself, It's not a very difficult thing to do, honestly, what was surprising to me was how they found the place and moment where someone is most vulnerable (personally speaking). \nIn an interview, one is nervous and tends to have tunnel vision, and these things go unnoticed.\nThank you very much for your comment.",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Igor Scekic",
+        "profile_link": "https://www.linkedin.com/in/igor-scekic--xoredxedx--",
+        "text": "Franco Aguilera you didn't understand Ricardo's question. All software developers/engineers must strengthen their cybersecurity skills, to a point, ofc. No one expects you to create malware or defensive software, but you need to have, at least \"basic knowledge about large cybersec topics\". Ricardo Pulgar\u00edn G\u00f3mez made a statement that this was a \"very sophisticated method of social engineering\". He meant that the attackers used sophisticated social engineering methods to gain as much information about you and the system that they intended to exploit(reconnaissance step) and a clever way to \"make\" you to execute their malicious code on your machine(deployment/execution step). Ricardo meant what technique was, in the technical context. It was some variant of a CSRF attack, which variant, I don't know, I can't find repo of the malware given to you, to see the code.\n\nI have concluded that it was a Cross-Site Request Forgery attack based on your explanation and a few incomplete pictures that you have provided, and if I was some cybersecurity guy, I would need the original repo, to examine code, not screenshots, from anyone, to figure out the variant. Do the housekeeping of the browser, and you will be fine. Cheers!",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Germ\u00e1n Fern\u00e1ndez Bacian",
+        "profile_link": "https://www.linkedin.com/in/gfdez",
+        "text": "Esta campa\u00f1a es de origen Norcoreano \ud83c\uddf0\ud83c\uddf5 (cluster de \nhashtag\n#Lazarus), ellos crean perfiles de reclutadores falsos aqu\u00ed en LinkedIn y otras RRSS para distribuir el malware \nhashtag\n#BeaverTail.\n\nC2: hxxp[:]//185.153.182[.]241:1224/\n\nAlgo m\u00e1s de informaci\u00f3n aqu\u00ed:\n\nGracias por compartir!!\n\nCC:",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Germ\u00e1n Fern\u00e1ndez Bacian Muchisimas gracias por la informacion, ayer lo estuve revisando y tal como dices, viene por ese lado",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Akshay Saklani",
+        "profile_link": "https://www.linkedin.com/in/akshay-saklani-87090b75",
+        "text": "I wonder if copilot could've picked that up",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "I don't think so, obfuscated code behind a convention name (.svn), I don't think it would have been able to notice",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Akshay Saklani",
+        "profile_link": "https://www.linkedin.com/in/akshay-saklani-87090b75",
+        "text": "it would have cleaned it off thinking its a typo I think but I guess repositories need to be monitored from now on",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Getnet Demil \u2122",
+        "profile_link": "https://www.linkedin.com/in/getnetdemil",
+        "text": "Wow, I'm utterly flabbergasted by your experience! It's shocking how common scams are, especially in the tech space. Your vigilance in spotting that hidden code is impressive, and I'm glad you caught it in time! Thanks for sharing this vital lesson with all of us.",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "thanks to you for the comment \ud83d\udc4d ",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Elyer Maldonado",
+        "profile_link": "https://www.linkedin.com/in/elyermad",
+        "text": "Pero miren el tama\u00f1o de esos huevos!",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Elyer Maldonado muchas gracias por tu mensaje Ely, un abrazo muy grande, espero que andes muy bien amigo \ud83d\ude03 ",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Elyer Maldonado",
+        "profile_link": "https://www.linkedin.com/in/elyermad",
+        "text": "Franco Aguilera Gracias querido! Te mando un abrazote tambi\u00e9n!",
+        "timestamp": "6d",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Artsiom Abozny",
+        "profile_link": "https://www.linkedin.com/in/tim-obozny",
+        "text": "This post is one of the most interesting and technically impressive I\u2019ve read at the last few days. Thanks a lot man!",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Franco Aguilera",
+        "profile_link": "https://www.linkedin.com/in/franco-aguilera-2583685a",
+        "text": "Artsiom Abozny Thanks a lot man, I really appreciate it",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "author": "Pietro Boccaletto, PhD",
+        "profile_link": "https://www.linkedin.com/in/pietroboccaletto",
+        "text": "Hi, I\u2019ve quickly deobfuscated and analyzed the code. If you\u2019ve executed it, you should not only change your passwords but also deauthenticate or invalidate active sessions (e.g., cookies) across all your connected accounts. This script compromises your browser profiles and session data, which could allow unauthorized access to your accounts. Additionally, I recommend closely monitoring access to all your online platforms.\n\nHere\u2019s what the code does:\n\nSteals browser profiles, including cookies, saved passwords, browsing history, and other sensitive data.\n\nExtracts cryptocurrency wallets.\n\nRetrieves system passwords stored in keychains.\n\n\nFurthermore, in the final lines, the script attempts to locate a Python executable and download a file from a remote server. This could be (pending further investigation) part of a persistence mechanism allowing the attacker to maintain control of your machine.\n\nI strongly advise you to disconnect the system from the Internet immediately, consult a Cybersecurity specialist, and consider reformatting the computer to ensure it is secure.\n\nStay vigilant and safe!",
+        "timestamp": "1w",
+        "post_url": "https://www.linkedin.com/posts/franco-aguilera-2583685a_the-code-challenge-scam-they-tried-to-hack-ugcPost-7270114821801451523-z9DT?utm_source=share&utm_medium=member_desktop"
+    }
+]

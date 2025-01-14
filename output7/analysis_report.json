@@ -1,0 +1,210 @@
+{
+    "general_statistics": {
+        "total_comments_collected": 12,
+        "total_comments_analyzed": 12,
+        "duplicates_removed": 0,
+        "completion_rate": 100.0
+    },
+    "sentiment_analysis": {
+        "positive": 8.33,
+        "negative": 0.0,
+        "neutral": 91.67
+    },
+    "comment_type_analysis": {
+        "comment_types": {
+            "positive_comments": {
+                "count": 0,
+                "percentage": 0.0,
+                "top_5": []
+            },
+            "aggressive_comments": {
+                "count": 0,
+                "percentage": 0.0,
+                "top_5": []
+            },
+            "sarcastic_comments": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "pure_neutral_comments": {
+                "count": 11,
+                "percentage": 91.67
+            }
+        }
+    },
+    "sentiment_intensity": {
+        "sentiment_intensity": {
+            "very_positive": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "moderately_positive": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "slightly_positive": {
+                "count": 1,
+                "percentage": 8.33
+            },
+            "very_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "moderately_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "slightly_negative": {
+                "count": 0,
+                "percentage": 0.0
+            },
+            "mixed": {
+                "count": 0,
+                "percentage": 0.0
+            }
+        }
+    },
+    "keyword_statistics": {
+        "most_common_positive": [
+            [
+                "neutral",
+                1
+            ]
+        ],
+        "most_common_negative": [],
+        "most_used_words": [
+            [
+                "have",
+                5
+            ],
+            [
+                "maybe",
+                2
+            ],
+            [
+                "if",
+                2
+            ],
+            [
+                "laptop",
+                2
+            ],
+            [
+                "oh",
+                2
+            ],
+            [
+                "why",
+                2
+            ],
+            [
+                "guy",
+                2
+            ],
+            [
+                "does",
+                1
+            ],
+            [
+                "work?",
+                1
+            ],
+            [
+                "ahdil",
+                1
+            ],
+            [
+                "butt",
+                1
+            ],
+            [
+                "right",
+                1
+            ],
+            [
+                "not.but",
+                1
+            ],
+            [
+                "only",
+                1
+            ],
+            [
+                "get",
+                1
+            ],
+            [
+                "laptop.thats",
+                1
+            ],
+            [
+                "enough.i",
+                1
+            ],
+            [
+                "will",
+                1
+            ],
+            [
+                "it.because",
+                1
+            ],
+            [
+                "looking",
+                1
+            ]
+        ]
+    },
+    "comment_length_analysis": {
+        "average_length": 14.5,
+        "shortest": 1,
+        "longest": 31,
+        "distribution": {
+            "short (1-10 words)": 5,
+            "medium (11-30 words)": 6,
+            "long (31+ words)": 1
+        }
+    },
+    "user_engagement": {
+        "total_unique_authors": 11,
+        "most_active_authors": [
+            [
+                "PRABNEET S.",
+                2
+            ],
+            [
+                "Web Developer",
+                1
+            ],
+            [
+                "M Sabah",
+                1
+            ],
+            [
+                "Sebastian G.",
+                1
+            ],
+            [
+                "Adam Woerz",
+                1
+            ]
+        ],
+        "engagement_distribution": {
+            "single_comment": 10,
+            "multiple_comments": 1
+        }
+    },
+    "temporal_analysis": {
+        "hourly_distribution": {},
+        "daily_distribution": {},
+        "peak_hour": null
+    },
+    "data_quality": {
+        "empty_comments": 0,
+        "average_sentiment_score": 0.08
+    },
+    "report_metadata": {
+        "generated_at": "2025-01-14T14:30:30.271144",
+        "version": "1.1"
+    }
+}

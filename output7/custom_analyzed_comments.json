@@ -1,0 +1,196 @@
+[
+    {
+        "author": "PRABNEET S.",
+        "original_text": "How does this work?",
+        "cleaned_text": "How does this work?",
+        "timestamp": "1d",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "PRABNEET S.",
+        "original_text": "Ahdil Butt Maybe your right Maybe your not.But If I only get a laptop.Thats enough.I will have it.Because I looking for a laptop and don't have money to buy new one.Buddy!",
+        "cleaned_text": "Ahdil Butt Maybe your right Maybe your not.But If I only get a laptop.Thats enough.I will have it.Because I looking for a laptop and don't have money to buy new one.Buddy!",
+        "timestamp": "17h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Web Developer",
+        "original_text": "source: https://x.com/hackSultan/status/1799128559501332545",
+        "cleaned_text": "source:",
+        "timestamp": "1d",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "M Sabah",
+        "original_text": "Forget the job description, the laptop tells you everything you need to know!",
+        "cleaned_text": "Forget the job description, the laptop tells you everything you need to know!",
+        "timestamp": "17h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Sebastian G.",
+        "original_text": "Uh oh 😳 i got a dell😄 picked it myself though, best price/power ratio at the time",
+        "cleaned_text": "Uh oh :flushed_face: i got a dell:grinning_face_with_smiling_eyes: picked it myself though, best price/power ratio at the time",
+        "timestamp": "1d",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Adam Woerz",
+        "original_text": "Oh man, why is this so true? I've been the Dell guy, I'm now the Lenovo guy and I have a ton of the mac guy as friends.",
+        "cleaned_text": "Oh man, why is this so true? I've been the Dell guy, I'm now the Lenovo guy and I have a ton of the mac guy as friends.",
+        "timestamp": "1d",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Louys Patrice Bessette",
+        "original_text": "Adam Woerz Until recently, I was provided with a Dell. I had 2 warning over the almost 3 years. And you know what? They wanted the computer back! 😐 ",
+        "cleaned_text": "Adam Woerz Until recently, I was provided with a Dell. I had 2 warning over the almost 3 years. And you know what? They wanted the computer back! :neutral_face:",
+        "timestamp": "18h",
+        "analysis": {
+            "supportive_score": 1.0,
+            "critical_score": 0,
+            "sentiment_score": 1.0,
+            "sentiment": "positive",
+            "found_keywords": {
+                "positive": [
+                    "neutral"
+                ],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Casey Rhodes (he/him)",
+        "original_text": "Too accurate to be funny",
+        "cleaned_text": "Too accurate to be funny",
+        "timestamp": "11h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Mohamed Badwan",
+        "original_text": "Uh, I have a ThinkPad bought it last year, guess I'll have it for a while 😆",
+        "cleaned_text": "Uh, I have a ThinkPad bought it last year, guess I'll have it for a while :grinning_squinting_face:",
+        "timestamp": "22h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Cornelis de Leeuw van Weenen",
+        "original_text": "And what if they offer you a desktop?",
+        "cleaned_text": "And what if they offer you a desktop?",
+        "timestamp": "8h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Jason Line",
+        "original_text": "Work gave me an HP. The patients are running the asylum. 😂",
+        "cleaned_text": "Work gave me an HP. The patients are running the asylum. :face_with_tears_of_joy:",
+        "timestamp": "19h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    },
+    {
+        "author": "Holger Rasch",
+        "original_text": "Why is „28 years later“ comming to my head?",
+        "cleaned_text": "Why is „28 years later“ comming to my head?",
+        "timestamp": "20h",
+        "analysis": {
+            "supportive_score": 0,
+            "critical_score": 0,
+            "sentiment_score": 0,
+            "sentiment": "neutral",
+            "found_keywords": {
+                "positive": [],
+                "negative": []
+            }
+        }
+    }
+]
